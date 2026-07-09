@@ -205,7 +205,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             "Moblie Solutions Developer",
 
-            "U"
+           "UI/UX Designer"
 
 
         ];
